@@ -16,7 +16,7 @@
         <!-- 1. Bienvenida -->
         <item>
             <title>Bienvenidos a nuestro canal de café de especialidad</title>
-            <link>https://www.caferex.com/bienvenida</link>
+            <link>https://www.caferex.com/</link>
             <description>Nos complace anunciar el lanzamiento de nuestro canal de noticias, donde encontrarás información actualizada sobre el fascinante mundo del café de especialidad.</description>
             <pubDate>21 Mar 2025 12:00</pubDate>
         </item>
@@ -24,7 +24,7 @@
         <!-- 2. Anuncio sobre un evento próximo -->
         <item>
             <title>Evento exclusivo: Cata de cafés de origen</title>
-            <link>https://www.caferex.com/evento-cata</link>
+            <link>https://www.caferex.com/</link>
             <description>No te pierdas nuestra cata especial donde exploraremos los sabores y aromas de los mejores cafés de origen del mundo.</description>
             <pubDate>22 Marzo 2025 10:00</pubDate>
         </item>
@@ -32,7 +32,7 @@
         <!-- 3. Artículo destacado -->
         <item>
             <title>Nueva tendencia: Métodos de extracción innovadores</title>
-            <link>https://www.caferex.com/metodos-extraccion</link>
+            <link>https://www.caferex.com/</link>
             <description>Descubre las últimas innovaciones en métodos de extracción de café y cómo están revolucionando la experiencia del café de especialidad.</description>
             <pubDate>23 Marzo 2025 15:00</pubDate>
         </item>
