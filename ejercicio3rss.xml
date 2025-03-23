@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Noticias sobre Café de Especialidad</title>
+        <link>https://www.caferex.com/rss</link>
+        <description>Últimas novedades y eventos sobre el mundo del café de especialidad</description>
+        <language>es</language>
+
+        <!-- Imagen del canal -->
+        <image>
+            <url>https://i.postimg.cc/0zmhzv3z/imagen.png</url>
+            <title>Logo del Canal</title>
+            <link>https://www.caferex.com</link>
+        </image>
+
+        <!-- 1. Bienvenida -->
+        <item>
+            <title>Bienvenidos a nuestro canal de café de especialidad</title>
+            <link>https://www.caferex.com/bienvenida</link>
+            <description>Nos complace anunciar el lanzamiento de nuestro canal de noticias, donde encontrarás información actualizada sobre el fascinante mundo del café de especialidad.</description>
+            <pubDate>21 Mar 2025 12:00</pubDate>
+        </item>
+
+        <!-- 2. Anuncio sobre un evento próximo -->
+        <item>
+            <title>Evento exclusivo: Cata de cafés de origen</title>
+            <link>https://www.caferex.com/evento-cata</link>
+            <description>No te pierdas nuestra cata especial donde exploraremos los sabores y aromas de los mejores cafés de origen del mundo.</description>
+            <pubDate>22 Marzo 2025 10:00</pubDate>
+        </item>
+
+        <!-- 3. Artículo destacado -->
+        <item>
+            <title>Nueva tendencia: Métodos de extracción innovadores</title>
+            <link>https://www.caferex.com/metodos-extraccion</link>
+            <description>Descubre las últimas innovaciones en métodos de extracción de café y cómo están revolucionando la experiencia del café de especialidad.</description>
+            <pubDate>23 Marzo 2025 15:00</pubDate>
+        </item>
+    </channel>
+</rss>
